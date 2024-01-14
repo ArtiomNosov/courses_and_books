@@ -1,7 +1,7 @@
 # courses_and_books
 Курсы, которые я прошёл, и книги, которые я прочитал
 
-[itproger](https://www.youtube.com/@itproger)
+[itproger](https://www.youtube.com/@itproger):
 1. [Уроки Vue JS для начинающих / Изучаем VueJS с нуля](https://www.youtube.com/watch?v=TV9UtmlYCMM&list=PLDyJYA6aTY1lwiVmcFFb7g0dRehAXmWUn) (0%)
 
 [Яндекс тренировки](https://yandex.ru/yaintern/training):
