@@ -17,4 +17,4 @@
 2. [Английский по плейлистам РАЗГОВОРНЫЙ КУРС - ЗАГОВОРИ ЗА 25 УРОКОВ A1-A2](https://www.youtube.com/watch?v=swY3VuD3B0I&list=PLD6SPjEPomatqksnI7khGOkOyeBOb7dYf) (Урок №11)
 
 Books: 
-1. [Книга «Грокаем глубокое обучение»](https://github.com/H20CH3PO2/Grokking-Deep-Learning) (71/351 страниц)  
+1. [Книга «Грокаем глубокое обучение»](https://github.com/H20CH3PO2/Grokking-Deep-Learning) (321/351 страниц)  
