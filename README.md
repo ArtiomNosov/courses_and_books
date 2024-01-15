@@ -5,7 +5,7 @@
 1. [Уроки Vue JS для начинающих / Изучаем VueJS с нуля](https://www.youtube.com/watch?v=TV9UtmlYCMM&list=PLDyJYA6aTY1lwiVmcFFb7g0dRehAXmWUn) (100%)
 
 [Яндекс тренировки](https://yandex.ru/yaintern/training):
-1. [Тренировки по Machine Learning](https://yandex.ru/yaintern/training/ml-training?mindbox-message-key=7471047284419985412&mindbox-click-id=b5fcbb11-b8d0-4d0c-b2c2-bb48664d682b&utm_source=mindbox&utm_medium=email&utm_campaign=training4&utm_content=reg) (начал проходить)
+1. [Тренировки по Machine Learning](https://yandex.ru/yaintern/training/ml-training?mindbox-message-key=7471047284419985412&mindbox-click-id=b5fcbb11-b8d0-4d0c-b2c2-bb48664d682b&utm_source=mindbox&utm_medium=email&utm_campaign=training4&utm_content=reg) (100%)
 
 [Яндекс практикум](https://practicum.yandex.ru/):
 1. [Python-разработчик](https://practicum.yandex.ru/profile/backend-developer/)  (20% вводная часть)
