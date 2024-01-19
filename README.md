@@ -1,6 +1,9 @@
 # courses_and_books
 Курсы, которые я прошёл, и книги, которые я прочитал
 
+[leetcode.com](https://leetcode.com/):
+1. [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/)
+
 [itproger](https://www.youtube.com/@itproger):
 1. [Уроки Vue JS для начинающих / Изучаем VueJS с нуля](https://www.youtube.com/watch?v=TV9UtmlYCMM&list=PLDyJYA6aTY1lwiVmcFFb7g0dRehAXmWUn) (100%)
 
